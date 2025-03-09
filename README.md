@@ -1,4 +1,1 @@
-# SmartifyOpen
-# SmartifyOpen
-# SmartifyOpen
-# SmartifyOpen
+# Project for a 24h hackathon
